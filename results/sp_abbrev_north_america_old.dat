@@ -1,0 +1,311 @@
+name	abbreviation	has
+Alisma gramineum	AlisGram	y
+Alisma lanceolatum	AlisLanc	y
+Alisma subcordatum	AlisSubc	y
+Alisma triviale	AlisTriv	y
+Azolla caroliniana	AzolCaro_g	y
+Azolla filiculoides	AzolFili_g	y
+Azolla mexicana	AzolMexi_g	y
+Blyxa aubertii	BlyxAube	y
+Brasenia schreberi	BrasSchr_g	y
+Butomus umbellatus	ButoUmbe	y
+CaboCaro	CaboCaro_g	y
+	CallPalu	n
+	CaltLept_g	n
+Caltha natans	CaltNata_g	y
+	CaltPalu_g	n
+Canna flaccida	CannFlac	y
+Canna glauca	CannGlau	y
+Ceratophyllum demersum	CeraDeme_g	y
+Ceratophyllum echinatum	CeraEchi_g	y
+Colocasia esculenta	ColoEscu	y
+	CommComm	n
+	CommVirg	n
+Crinum americanum	CrinAmer_var_amer	y
+Damasonium californicum	DamaCali	y
+	EchiBert	n
+Echinodorus cordifolius	EchiCord_subsp_cord	y
+	EchiTene	n
+Egeria densa	EgerDens	y
+Eichhornia crassipes	EichCras	y
+Elodea bifoliata	ElodBifo	y
+Elodea canadensis	ElodCana	y
+Elodea nuttallii	ElodNutt	y
+	EquiArve_g	n
+Equisetum fluviatile	EquiFluv_g	y
+	EquiPalu_g	n
+Eriocaulon aquaticum	ErioAqua	y
+Eriocaulon cinereum	ErioCine	y
+Eriocaulon compressum	ErioComp	y
+Eriocaulon decangulare	ErioDeca	y
+Eriocaulon koernickianum	ErioKoer	y
+Eriocaulon lineare	ErioLine	y
+Eriocaulon nigrobracteatum	ErioPark	y
+Eriocaulon ravenelii	ErioRave	y
+Eriocaulon texense	ErioTexe	y
+	HaloDeci	n
+	HaloEnge	n
+	HaloJohn	n
+	HaloduleWrig	n
+Heteranthera dubia	HeteDubi	y
+Heteranthera limosa	HeteLimo	y
+	HeteMexi	n
+Heteranthera multiflora	HeteMult	y
+Heteranthera reniformis	HeteReni	y
+Heteranthera rotundifolia	HeteRotu	y
+Hydrocharis morsus	HydrMors-ranae	y
+Hydrilla verticillata	HydrVert	y
+Hydrocleys nymphoides	HydrocleysNymp	y
+Iris Fulva	IrisFulv	y
+Iris giganticaerulea	IrisGiga	y
+	IrisHexa	n
+Iris missouriensis	IrisMiss	y
+Iris savannarum	IrisSava	y
+Iris versicolor	IrisVers	y
+Iris virginica	IrisVirg	y
+Isoetes acadiensis	IsoeAcad_g	y
+Isoetes bolanderi	IsoeBola_g	y
+Isoetes caroliniana	IsoeCaro_g	y
+Isoetes echinospora	IsoeEchi_g	y
+Isoetes engelmannii	IsoeEnge_g	y
+Isoetes flaccida	IsoeFlac_g	y
+Isoetes howellii	IsoeHowe_g	y
+Isoetes lacustris	IsoeLacu_g	y
+Isoetes maritima	IsoeMari_g	y
+Isoeetes melanopoda	IsoeMelanopoda_g	y
+Isoetes melanospora	IsoeMelanospora_g	y
+	IsoeNutt_g	n
+Isoetes occidentalis	IsoeOcci_g	y
+	IsoeOrcu_g	n
+Isoetes prototypus	IsoeProt_g	y
+Isoetes riparia	IsoeRipa_g	y
+Isoeetes tuckermanii	IsoeTuck_g	y
+	IsoeVirg_g	n
+Juncus acuminatus	JuncAcum	y
+Juncus alpinoarticulatus	JuncAlpi	y
+Juncus anthelatus	JuncAnth	y
+Juncus articulatus	JuncArti	y
+Juncus biglumis	JuncBigl	y
+Juncus bolanderi	JuncBola	y
+Juncus brachycarpus	JuncBrachycarpus	y
+Juncus brachycephalus	JuncBrachycephalus	y
+Juncus brachyphyllus	JuncBrachyphyllus	y
+Juncus brevicaudatus	JuncBrev	y
+Juncus bryoides	JuncBryo	y
+Juncus bufonius	JuncBufo	y
+	JuncBulb	n
+	JuncCaes	n
+	JuncCana	n
+	JuncCapi	n
+	JuncCast	n
+	JuncCori	n
+	JuncCovi	n
+	JuncDebi	n
+	JuncDich	n
+	JuncDiff	n
+	JuncDudl	n
+	JuncEffu	n
+	JuncElli	n
+	JuncEnsi_var_ensi	n
+	JuncFalc	n
+	JuncFiliformis	n
+	JuncFilipendulus	n
+	JuncGera	n
+	JuncGymn	n
+	JuncHemi	n
+	JuncInfl	n
+	JuncKell	n
+	JuncLeio	n
+	JuncLesu	n
+	JuncLuci	n
+	JuncMarg	n
+	JuncMega	n
+	JuncMert	n
+	JuncMili	n
+	JuncNeva	n
+	JuncNoda	n
+	JuncNodo	n
+	JuncOcci	n
+	JuncOxym	n
+	JuncPate	n
+Juncus pelocarpus	JuncPelo	y
+	JuncPhae	n
+	JuncPoly	n
+	JuncRepe	n
+	JuncRoem	n
+	JuncScir	n
+	JuncStyg_var_amer	n
+	JuncSubc	n
+Juncus subtilis	JuncSubt	y
+	JuncSupi	n
+	JuncTenu	n
+	JuncTexa	n
+	JuncTieh	n
+	JuncTorr	n
+	JuncTrif	n
+	JuncTriglumis	n
+	JuncTrigonocarpus	n
+	JuncUnci	n
+	JuncVali	n
+	JuncVase	n
+	JuncXiph	n
+Lemna aequinoctialis	LemnAequ	y
+Leman gibba	LemnGibb	y
+Lemna minor	LemnMino	y
+Lemna minuta	LemnMinu	y
+Lemna obscura	LemnObsc	y
+Lemna perpusilla	LemnPerp	y
+Lemna trisulca	LemnTris	y
+Lemna turionifera	LemnTuri	y
+Lemna valdiviana	LemnVald	y
+Lilaea scilloides	LilaScil	y
+Limnobium spongia	LimnSpon	y
+Lysichiton_americanus	LysiAmer	y
+Marsilea macropoda	MarsMacr_g	y
+Marsilea mollis	MarsMoll_g	y
+Marsilea oligospora	MarsOlig_g	y
+Marsilea quadrifolia	MarsQuad_g	y
+Marsilea vestita	MarsVest_g	y
+Mayaca fluviatilis	MayaFluv	y
+Monochoria vaginalis	MonoVagi	y
+Montia chamissoi	MontCham	y
+Montia dichotoma	MontDich	y
+Montia fontana	MontFont	y
+Montana howeii	MontHowe	y
+Murdannia keisak	MurdKeis	y
+Najas filifolia	NajaFili	y
+Najas flexilis	NajaFlex	y
+Najas gracillima	NajaGrac	y
+Najas guadalupensis	NajaGuad	y
+Najas maritina	NajaMari	y
+Najas minor	NajaMino	y
+Nelumbo lutea	NeluLute_g	y
+	NeluNuci_g	n
+Nuphar advena	NuphAdve_g	y
+Nuphar microphylla	NuphMicr_g	y
+Nuphar orbiculata	NuphOrbi_g	y
+Nuphar polysepala	NuphPoly_g	y
+Nuphar rubrodisca	NuphRubr_g	y
+Nuphar sagittifolia	NuphSagi_g	y
+Nuphar variegata	NuphVari_g	y
+Nymphaea capensis	NympCape_g	y
+Nymphaea elegans	NympEleg_g	y
+Nymphaea jamesoniana	NympJame_g	y
+Nymphaea leibergii	NympLeib_g	y
+Nymphaea lotus	NympLotu_g	y
+Nymphaea mexicana	NympMexi_g	y
+Nymphaea odorata	NympOdor_subsp_odor_g	y
+Nymphaea tetragona	NympTetr_g	y
+Orontium aquaticum	OronAqua	y
+Ottelia alismoides	OtteAlis	y
+Peltandra sagittifolia	PeltSagi	y
+Peltandra virginica	PeltVirg	y
+Phylospadix scouleri	PhylScou	y
+Phyllospadix torreyi	PhylTorr	y
+Pilularia americana	PiluAmer_g	y
+Pistia stratiotes	PistStra	y
+Pontederia cordata	PontCord	y
+Potamogeton alpinus	PotaAlpi	y
+Potamogeton amplifolius	PotaAmpl	y
+Potamogeton bicupulatus	PotaBicu	y
+Potamogeton confervoides	PotaConf	y
+Potamogeton crispus	PotaCris	y
+Potamogeton diversifolius	PotaDive	y
+Potamogeton epihydrus	PotaEpih	y
+Potamogeton foliosus	PotaFoli	y
+Potamogeton friesii	PotaFrie	y
+Potamogeton gramineus	PotaGram	y
+Potamogeton groenlandicus	PotaGroe	y
+Potamogeton hillii	PotaHill	y
+Potamogeton illinoensis	PotaIlli	y
+Potamogeton natans	PotaNata	y
+Potamogeton nodosus	PotaNodo	y
+Potamogeton oblongus	PotaOblo	y
+Potamogeton obtusifolius	PotaObtu	y
+Potamogeton perfoliatus	PotaPerf	y
+Potamogeton praelongus	PotaPrae	y
+Potamogeton pulcher	PotaPulc	y
+Potamogeton pusillus	PotaPusi	y
+	Pota_Oake	n
+	RanuAlis_var_alis_g	n
+	RanuAmbi_g	n
+Ranunculus aquatilis var. aquatilis	RanuAqua_var_aqua_g	y
+	RanuCymb_g	n
+Ranunculus flabellaris	RanuFlab_g	y
+	RanuFlam_var_flam_g	n
+	RanuGlac_var_glac_g	n
+Ranunculus gmelinii	RanuGmel_g	y
+Ranunculus hederaceus	RanuHede_g	y
+Ranunculus hydrocharoides	RanuHydr_tg	y
+Ranunculus hyperboreus	RanuHype_g	y
+	RanuHyst_g	n
+Ranunculus lobbii	RanuLobb_g	y
+	RanuMaco_g	n
+Ranunculus pallasii	RanuPall_g	y
+Ranunculus populago	RanuPopu_g	y
+Ranunculus pusillus	RanuPusi_g	y
+Ranunculus sceleratus var. sceleratus	RanuScel_var_scel_g	y
+Sagittaria ambigua	SagiAmbi	y
+Sagittaria australis	SagiAust	y
+Sagittaria brevirostra	SagiBrev	y
+Sagittaria cristata	SagiCris	y
+Sagittaria cuneata	SagiCune	y
+Sagittaria demersa	SagiDeme	y
+Sagittaria filiformis	SagiFili	y
+Sagittaria graminea subsp. graminea	SagiGram_subsp_chap	y
+Sagittaria graminea	SagiGram_subsp_gram	y
+	SagiGram_subsp_weat	n
+Sagittaria isoetiformis	SagiIsoe	y
+Sagittaria kurziana	SagiKurz	y
+	SagiLanc	n
+	SagiLanc_subsp_lanc	n
+	SagiLanc_subsp_medi	n
+Sagittaria latifolia	SagiLati	y
+Sagittaria longiloba	SagiLong	y
+Sagittaria montevidensis subsp. montevidensis	SagiMont	y
+Sagittaria montevidensis subsp. calycina	SagiMont_subsp_caly	y
+Sagittaria montevidensis subsp. spongiosa	SagiMont_subsp_spon	y
+	SagiPapi	n
+Sagittaria platyphylla	SagiPlat	y
+Sagittaria rigida	SagiRigi	y
+Sagittaria sanfordii	SagiSanf	y
+Sagittaria subulata	SagiSubu	y
+Sagittaria teres	SagiTere	y
+Salvinia minima	SalvMini_g	y
+Sparganium americanum	SparAmer	y
+Sparganium androcladum	SparAndr	y
+Sparganium angustifolium	SparAngu	y
+Sparganium emersum	SparEmer	y
+Sparganium eurycarpum	SparEury	y
+Sparganium fluctuans	SparFluc	y
+Sparganium glomeratum	SparGlom	y
+Sparganium hyperboreum	SparHype	y
+Sparganium natans	SparNata	y
+Spirodela polyrrhiza	SpirPoly	y
+Spirodela punctata	SpirPunc	y
+Stuckenia filiformis subsp. filiformis	StucFili_subsp_fili	y
+Stuckenia pectinata	StucPect	y
+Stuckenia striata	StucStri	y
+Stuckenia vaginata	StucVagi	y
+	SympFoed	n
+	SyngFlav	n
+	SyriFili	n
+Thalia dealbata	ThalDeal	y
+Thalia geniculata	ThalGeni	y
+	ThalTest	n
+	TrigGasp	n
+	TrigMari	n
+	TrigPalu	n
+	TrigStri	n
+Typha angustifolium	TyphAngu	y
+Typha domingensis	TyphDomi	y
+Typha latifolia	TyphLati	y
+Vallisneria americana	VallAmer	y
+Wolffia borealis	WolfBore	y
+Wolffia brasiliensis	WolfBras	y
+Wolffia columbiana	WolfColu	y
+Wolffia globosa	WolfGlob	y
+Wolffiella gladiata	WolffiellaGlad	y
+Wolffiella lingulata	WolffiellaLing	y
+Wolffiella oblonga	WolffiellaOblo	y
+Zannichellia palustris	ZannPalu	y

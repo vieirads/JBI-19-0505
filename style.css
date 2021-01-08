@@ -1,0 +1,30 @@
+.container {
+    width: 95% !important;
+}
+
+.summary {
+    font-size: 25px;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+ol.sub {
+    counter-reset: item;
+    text-align: justify;
+}
+
+li.sub {
+    display: block;
+    text-align: justify;
+}
+
+li.sub:before {
+    content: counters(item, ".") ". ";
+    counter-increment: item;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+    font-size: 15px;
+}
