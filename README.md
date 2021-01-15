@@ -1,18 +1,21 @@
-<!-- <div align="center">
-    <div>
-        <img src="uem_logo.jpg" style="width: 32%; padding: 2px;"><br>
-        <img src="clab_logo.png" style="width: 32%; padding: 2px;">
-    </div>
-    <img src="oulu_logo.jpg" style="width: 20%; height: 200px; padding: 2px;">
-</div> -->
 # JBI14071
-📑 <u>Article</u>: Little evidence of range size conservatism in freshwater plants across two continents
-📔 <u>Journal</u>: Journal of Biogeography
+
+This repository contain all the code and data for the reproducibility of the results obtained for the following work:
+
+📑 <u>Article</u>: Little evidence of range size conservatism in freshwater plants across two continents <br>
+📔 <u>Journal</u>: Journal of Biogeography<br>
 🔗 [DOI](10.1111/jbi.14071)
 
-This repository contain all the code and data for the reproducibility of the results obtained.
+# A colaboration between 🤝
 
+<img src="logo.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
 
+[🇧🇷 ComplexLab - Universidade Estadual de Maringá (UEM)](http://complex.pfi.uem.br/)<br>
+[🇫🇮 Physical Geography Research Group - University of Oulu](https://oyluma.weebly.com/)<br>
+[🇪🇸 Ecology Research Unit - University of León]()
 
 # Data 📂
 
