@@ -19,7 +19,7 @@ N - int: number of links to create, i.e.,
          the number of pairs overlapping.
 ```
 
-Code to calculate the patristic distance among species was written in R by Jorge and all files necessary to reproduce the results are in the folder `patristic_analysis`.
+Code to calculate the patristic distance among species was written in R by Jorge and all files necessary to reproduce the results are in the folder `patristic_analysis_R`.
 
 # Figures
 
@@ -27,4 +27,4 @@ The disposition of panels in some of the final figures is different from those f
 
 # Authorship
 
-All python code and notebooks were written by me, Vieira D. S. The code in R was written by Garcia, J.
+All `python` code and notebooks were written by me, Vieira D. S. The code in `R` was written by Girón, J. G.
